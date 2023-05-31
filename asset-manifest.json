@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oriserve-assessment/static/css/main.46e82404.css",
+    "main.js": "/oriserve-assessment/static/js/main.381a4875.js",
+    "static/js/787.28cb0dcd.chunk.js": "/oriserve-assessment/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/oriserve-assessment/index.html",
+    "main.46e82404.css.map": "/oriserve-assessment/static/css/main.46e82404.css.map",
+    "main.381a4875.js.map": "/oriserve-assessment/static/js/main.381a4875.js.map",
+    "787.28cb0dcd.chunk.js.map": "/oriserve-assessment/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46e82404.css",
+    "static/js/main.381a4875.js"
+  ]
+}
