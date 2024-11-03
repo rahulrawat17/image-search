@@ -1,4 +1,4 @@
-**Live**
+**Image Search**
 Live Preview - [Click Here](https://rahulrawat17.github.io/image-search/)
 
 # Getting Started with Create React App
